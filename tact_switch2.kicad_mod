@@ -1,4 +1,4 @@
-(module library:tact_switch2 (layer F.Cu) (tedit 5DE7B7B4)
+(module keyboard:tact_switch2 (layer F.Cu) (tedit 5DE7B7B4)
   (fp_text reference SW37 (at 0 -1.27) (layer Dwgs.User) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
