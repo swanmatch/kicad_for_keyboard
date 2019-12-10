@@ -1,5 +1,5 @@
-(module CherryMX_edge_cuts (layer F.Cu) (tedit 5D3889D4)
-  (fp_text reference SW2 (at 7.1 8.2) (layer F.SilkS) hide
+(module Switch_Cuts (layer F.Cu) (tedit 5DEF9802)
+  (fp_text reference REF** (at 7.1 8.2) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value SW_PUSH (at -4.8 8.3) (layer F.Fab) hide
@@ -13,8 +13,4 @@
   (fp_line (start -7 7) (end 7 7) (layer Edge.Cuts) (width 0.15))
   (fp_line (start -7 -7) (end 7 -7) (layer Edge.Cuts) (width 0.15))
   (fp_line (start 7 -7) (end 7 7) (layer Edge.Cuts) (width 0.15))
-  (pad "" np_thru_hole circle (at -6.477 -6.477) (size 1.524 1.524) (drill 1.5) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 6.477 6.477) (size 1.524 1.524) (drill 1.5) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at -6.477 6.477) (size 1.524 1.524) (drill 1.5) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 6.477 -6.477) (size 1.524 1.524) (drill 1.5) (layers *.Cu *.Mask))
 )
