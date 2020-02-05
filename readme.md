@@ -4,20 +4,27 @@
 | name | author | url |
 | :- | :- | :- |
 | 1pin_conn | @foostan | https://github.com/foostan/kbd/  |
-| CherryMX-Hotswap-v2 | @foostan | https://github.com/foostan/kbd/ |
-| CherryMX_1u | @foostan | https://github.com/foostan/kbd/ |
-| CherryMX_Choc_1.5u | @foostan | https://github.com/foostan/kbd/ |
-| CherryMX_Choc_1.5u_1side | @foostan | https://github.com/foostan/kbd/ |
-| CherryMX_Choc_1u | @foostan | https://github.com/foostan/kbd/ |
-| CherryMX_Choc_Hotswap | @foostan | https://github.com/foostan/kbd/ |
-| CherryMX_Choc_Hotswap_1.5u | @foostan | https://github.com/foostan/kbd/ |
-| CherryMX_Hotswap | @foostan<br>Arranged @swan_match | https://github.com/foostan/kbd/ |
-| CherryMX_Hotswap_1.25u | @foostan<br>Arranged @swan_match | https://github.com/foostan/kbd/ |
-| CherryMX_Hotswap_1.5u | @foostan | https://github.com/foostan/kbd/ |
-| CherryMX_Hotswap_v2 | @foostan | https://github.com/foostan/kbd/ |
-| CherryMX_MidHeight_Choc_Hotswap | @foostan | https://github.com/foostan/kbd/ |
-| CherryMX_MidHeight_Hotswap | @foostan | https://github.com/foostan/kbd/ |
-| CherryMX_MidHeight_Hotswap_1.5u | @foostan | https://github.com/foostan/kbd/ |
+| MX-Hotswap-v2 | @foostan | https://github.com/foostan/kbd/ |
+| MX_1u | @foostan | https://github.com/foostan/kbd/ |
+| MX_Choc_1.5u | @foostan | https://github.com/foostan/kbd/ |
+| MX_Choc_1.5u_1side | @foostan | https://github.com/foostan/kbd/ |
+| MX_Choc_1u | @foostan | https://github.com/foostan/kbd/ |
+| MX_Choc_Hotswap | @foostan | https://github.com/foostan/kbd/ |
+| MX_Choc_Hotswap_1.5u | @foostan | https://github.com/foostan/kbd/ |
+| MX_Hotswap_1.25u.kicad_mod | @ai03_2725 | https://github.com/ai03-2725/MX_Alps_Hybrid |
+| MX_Hotswap_1.5u.kicad_mod | @ai03_2725 | https://github.com/ai03-2725/MX_Alps_Hybrid |
+| MX_Hotswap_1.75u.kicad_mod | @ai03_2725 | https://github.com/ai03-2725/MX_Alps_Hybrid |
+| MX_Hotswap_1u.kicad_mod | @ai03_2725 | https://github.com/ai03-2725/MX_Alps_Hybrid |
+| MX_Hotswap_2.25u.kicad_mod | @ai03_2725 | https://github.com/ai03-2725/MX_Alps_Hybrid |
+| MX_Hotswap_2.75u.kicad_mod | @ai03_2725 | https://github.com/ai03-2725/MX_Alps_Hybrid |
+| MX_Hotswap_2u.kicad_mod | @ai03_2725 | https://github.com/ai03-2725/MX_Alps_Hybrid |
+| MX_Hotswap | @foostan<br>Arranged @swan_match | https://github.com/foostan/kbd/ |
+| MX_Hotswap_1.25u | @foostan<br>Arranged @swan_match | https://github.com/foostan/kbd/ |
+| MX_Hotswap_1.5u | @foostan | https://github.com/foostan/kbd/ |
+| MX_Hotswap_v2 | @foostan | https://github.com/foostan/kbd/ |
+| MX_MidHeight_Choc_Hotswap | @foostan | https://github.com/foostan/kbd/ |
+| MX_MidHeight_Hotswap | @foostan | https://github.com/foostan/kbd/ |
+| MX_MidHeight_Hotswap_1.5u | @foostan | https://github.com/foostan/kbd/ |
 | Choc_Hotswap | @foostan | https://github.com/foostan/kbd/ |
 | Choc_Hotswap_1.5u | @foostan | https://github.com/foostan/kbd/ |
 | Crystal_SMD_3225-4pin_3.2x2.5mm | @ai03_2725 | https://github.com/ai03-2725/Voyager60 |
