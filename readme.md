@@ -70,3 +70,4 @@
 | YS-SK6812MINI-E-reverse | @takashiski<br>arranged @swanmatch | https://github.com/takashiski/LED_kicad_footprints |
 | YS-SK6812MINI-E | @takashiski<br>arranged @swanmatch | https://github.com/takashiski/LED_kicad_footprints |
 | tact_switch2 | @omkbd | https://github.com/omkbd/ErgoDash |
+| lvc27 | @_gonnoc | https://github.com/sekigon-gonnoc/LevelConverterForTrackballModule |
