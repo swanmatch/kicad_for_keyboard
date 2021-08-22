@@ -1,4 +1,4 @@
-(module MXOnly-1.5U (layer F.Cu) (tedit 5AC998EE)
+(module MX-1.5U (layer F.Cu) (tedit 5AC998EE)
   (fp_text reference REF** (at 0 3.175) (layer Dwgs.User)
     (effects (font (size 1 1) (thickness 0.15)))
   )
